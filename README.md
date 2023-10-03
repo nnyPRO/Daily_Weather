@@ -4,11 +4,16 @@
 > ## Team member  
 1. Rachata Thananchai 650510638  
    Role:
+   + Cleaning data
+   + Prepare Presentation
+2. Mesanee Laihuang 650510676  
+   Role:
    + Analyze data
    + Prepare Presentation
-2.Mesanee Laihuang 650510676
-
-3.
+3. Warisa Narata 650510683  
+   Role:
+   + Find outlier data
+   + Prepare Presentation
 
 > ## Link to data set [>>here!<<](https://www.kaggle.com/datasets/mysarahmadbhat/madrid-daily-weather)  
 
