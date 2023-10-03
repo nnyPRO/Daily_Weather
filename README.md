@@ -6,11 +6,11 @@
    Role:
    + Cleaning data
    + Prepare Presentation
-2. Mesanee Laihuang 650510676
+2. Mesanee Laihuang 650510676  
    Role:
    + Analyze data
    + Prepare Presentation
-3. Warisa Narata 650510683
+3. Warisa Narata 650510683  
    Role:
    + Find outlier data
    + Prepare Presentation
