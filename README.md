@@ -6,7 +6,8 @@
    Role:
    + Analyze data
    + Prepare Presentation
-2.
+2.Mesanee Laihuang 650510676
+
 3.
 
 > ## Link to data set [>>here!<<](https://www.kaggle.com/datasets/mysarahmadbhat/madrid-daily-weather)  
