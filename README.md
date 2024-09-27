@@ -6,7 +6,7 @@
    Role:
    + Cleaning data
    + Prepare Presentation
-2. Mesanee Laihuang 650510676  
+2. Mesani Laihueang 650510676  
    Role:
    + Analyze data
    + Prepare Presentation
